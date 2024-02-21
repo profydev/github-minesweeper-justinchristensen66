@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
   "commands": ["clear A8", "flag C3", "flag D2", "clear H8"]
+=======
+  "commands": ["clear A8", "flag C3", "flag D2"]
+>>>>>>> 9da280937ee773850ea8d81659008c31619c3424
 }
